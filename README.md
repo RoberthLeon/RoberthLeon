@@ -2,10 +2,6 @@
     <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=40&duration=1000&pause=2000&color=2545FF&center=true&vCenter=true&random=false&width=435&lines=DATA+ANALYTICS+📊​" />
 </h1>
 
-------------
-
-
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&duration=6000&pause=2000&color=001AE6&vCenter=true&random=false&width=435&lines=SOBRE+MI%3A" alt="Typing SVG" /></a>
 
 ------------
