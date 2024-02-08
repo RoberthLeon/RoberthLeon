@@ -5,7 +5,7 @@
 
 <p style="font-family: 'IBM Plex Mono', monospace; font-size: 30px; color: #6495ED">Sobre mi</p>
 
-<p style="font-family: 'IBM Plex Mono', monospace; font-size: 15px; color: ##2F4F4F">Apasionado y entusiasta por
+Apasionado y entusiasta por
 el análisis de datos, con
 experiencia mejorando y
 analizando procesos con el
@@ -14,4 +14,5 @@ permitan dar excelentes
 resultados. Busco las mejoras
 de mis capacidades analíticas
 atreviéndome a tomar nuevos
-retos.</p>
+retos.
+
