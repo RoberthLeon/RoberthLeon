@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <h1 style="margin: 10px 10px">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=40&duration=1000&pause=2000&color=2545FF&center=true&vCenter=true&random=false&width=435&lines=DATA+ANALYTICS+📊​" />
 </h1>
